@@ -4,7 +4,7 @@
 This lab demonstrates **Inter-Network Routing**. It uses a central router to bridge two separate Local Area Networks (LANs), allowing devices on different subnets to communicate.
 
 ## Topology Diagram
-![Dual LAN Topology](.\DualLanTopology.png)
+![Dual LAN Topology](./DualLanTopology.png)
 
 ## Hardware Used
 * **Router:** Cisco 2911
