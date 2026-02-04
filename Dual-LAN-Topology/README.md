@@ -36,3 +36,14 @@ Router(config-if)# exit
 Router(config)# interface Gig0/1
 Router(config-if)# ip address 192.168.20.1 255.255.255.0
 Router(config-if)# no shutdown
+```
+
+## Testing
+1. Open the **Command Prompt** on Laptop0.
+2. Run the command: `ping 192.168.20.2`.
+3. A successful reply confirms the P2P link is active.
+
+## Alternatively
+1. Open the **Command Prompt** on PC0.
+2. Run the command: `ping 192.168.10.2`.
+3. A successful reply confirms the P2P link is active.
